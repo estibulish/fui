@@ -1,5 +1,5 @@
 {
-  "name": "fui",
+  "name": "f-test-ui",
   "version": "0.0.1",
   "private": false,
   "description": "基于element ui 二次封装的组件库",
