@@ -3,10 +3,9 @@ import App from './App.vue'
 import router from './router'
 
 // import fui from '../packages/index.js'
-// import '../packages/theme-css/lib/index.css'
 
 import fui from 'f-test-ui'
-import 'f-test-ui/packages/theme-css/lib/index.css'
+import '../packages/theme-css/lib/index.css'
 
 Vue.use(fui)
 
