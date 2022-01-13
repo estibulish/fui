@@ -1,9 +1,13 @@
 {
   "name": "f-test-ui",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": false,
   "description": "基于element ui 二次封装的组件库",
-  "keywords": ["element","vue","fui"],
+  "keywords": [
+    "element",
+    "vue",
+    "fui"
+  ],
   "author": "traveling",
   "main": "lib/index/index.js",
   "license": "MIT",
@@ -22,6 +26,7 @@
   "homepage": "https://github.com/estibulish/fui#readme",
   "dependencies": {
     "core-js": "^3.6.5",
+    "f-test-ui": "^0.0.1",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0"
   },
